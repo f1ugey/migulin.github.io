@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('Montserrat-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+html * {
+    font-size: 1.1em !important;
+    color: #010101 !important;
+    font-family: 'Montserrat-Regular', sans-serif !important;
+}
+
+h1 {
+    font-size: 1.3em;
+}
